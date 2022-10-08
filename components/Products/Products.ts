@@ -1,0 +1,88 @@
+import { ProductsTypes } from "../../types";
+
+export const Products = <ProductsTypes[]>[
+  {
+    id: 1,
+    name: "Capacete shark vermelho",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 2,
+    name: "Capacete 2",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 3,
+    name: "Capacete 3",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 4,
+    name: "Capacete 4",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 5,
+    name: "Capacete 5",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 6,
+    name: "Capacete 6",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 7,
+    name: "Capacete 7",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 8,
+    name: "Capacete 8",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 9,
+    name: "Capacete 9",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 10,
+    name: "Capacete 10",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 11,
+    name: "Capacete 11",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+  {
+    id: 12,
+    name: "Capacete 12",
+    price: 32.5,
+    image: "/images/product.jpg",
+    compatibility: "Product compatible with all motorcycles",
+  },
+];
